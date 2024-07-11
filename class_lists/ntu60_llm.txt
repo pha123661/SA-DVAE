@@ -1,0 +1,60 @@
+"Drink water" refers to the act of taking in water by mouth to hydrate or quench thirst as a human action.
+"Eat meal/snack" is consuming food for sustenance, nourishment, or pleasure.
+"Brushing teeth" is the act of cleaning teeth and gums using a toothbrush and toothpaste for oral hygiene.
+"Brushing hair" involves using a brush or comb to groom and style hair.
+"Drop" refers to accidentally or intentionally releasing an object from one's grasp, allowing it to fall to the ground or another surface.
+“Pickup” involves lifting or grasping an object with one's hands.
+"Throw" is the act of projecting an object through the air by using the hand or arm.
+"Sitting down" involves moving from a standing position to a seated position.
+"Standing up (from sitting position)" involves transitioning from a seated position to an upright position by pushing up with the legs.
+"Clapping" involves striking one's palms together to make a sound, typically as a form of applause or approval.
+"Reading" involves interpreting and understanding written or printed words and symbols.
+"Writing" involves using a pen, pencil, or other writing tool to create letters, words, or symbols on a surface such as paper or a screen.
+"Tear up paper" involves using one's hands to rip apart paper into smaller pieces.
+"Wear jacket" is the act of putting on a garment designed to cover the upper body and arms.
+"Take off jacket" involves removing a jacket or outer garment from one's body.
+"Wear a shoe" involves putting a shoe onto one's foot for protection or fashion purposes.
+"Take off a shoe" involves removing a shoe from one's foot using one's hands.
+"Wear on glasses" involves putting eyeglasses or spectacles on one's face to correct vision or protect the eyes.
+"Take off glasses" involves removing eyeglasses from one's face with one's hands.
+"Put on a hat/cap" involves placing headwear over one's head, typically for protection from the sun.
+"Take off a hat/cap" involves removing a piece of headwear from one's head, typically by lifting or pulling it off.
+"Cheer up" involves trying to make oneself or someone else feel more positive or happy.
+"Hand waving" is a gesture involving moving one's hand or hands to signal, greet, or draw attention.
+"Kicking something" is a human action that involves striking an object with the foot.
+"Reach into pocket" is the act of extending one's hand into a pocket to retrieve an item or to adjust the pocket contents.
+"Hopping (one foot jumping)" is a human action that involves jumping repeatedly on one foot.
+"Jumping up" involves leaping upward from a standing position as part of physical training.
+"Make a phone call/Answer phone" involves using a phone to either initiate or receive a phone conversation.
+"Playing with phone/tablet" involves manipulating electronic devices through various interactions such as tapping, swiping, or scrolling.
+"Typing on a keyboard" is the act of pressing keys on a keyboard to input information or commands into a computer or other electronic device.
+"Pointing to something with finger" involves extending the arm and using the finger to indicate or draw attention to a specific object or location.
+"Taking a selfie" is using a camera to take a self-portrait photograph, typically for sharing on social media or personal keepsake.
+"Checking time (from watch)" involves looking at a wristwatch or other timekeeping device to determine the current time.
+"Rubbing two hands together" involves moving one's hands back and forth against each other, often for warmth.
+"Nod headbow" involves lowering one's head briefly in a sign of respect, greeting, or acknowledgment.
+"Shake head" is moving the head from side to side in a rapid or deliberate manner, often to indicate disagreement.
+"Wiping face" involves using a cloth or one's hands to remove dirt, sweat, or moisture from one's face.
+"Salute" is a gesture of respect or greeting, typically performed by raising one's hand to the forehead or brim of a hat.
+"Putting the palms together" is the act of pressing one's hands together, often as a sign of respect, greeting, or prayer.
+"Crossing hands in front (saying stop)" is a gesture where one crosses their arms in front of their body and says "stop".
+"Sneeze/cough" is the involuntary or deliberate act of expelling air and sometimes mucus from the nose and mouth, typically due to illness or irritation.
+"Staggering" is the unsteady movement or swaying of the body, usually caused by intoxication, dizziness, or fatigue.
+"Falling" is the sudden loss of balance resulting in a person dropping or collapsing to the ground or a lower surface.
+"Touching head (headache)" involves placing one's hands on the head to alleviate pain or discomfort in the head or neck area.
+"Touching chest (stomachache/heart pain)" is a human action that involves placing a hand on the chest to alleviate discomfort or pain in the chest area.
+"Touching back (backache)" involves placing one's hands on the back to alleviate or investigate pain, discomfort, or tension in the back.
+"Touching neck (neckache)" refers to the action of pressing or rubbing the neck with one's hands, often to relieve pain or discomfort in the neck area.
+"Nausea or vomiting" is a condition characterized by the urge to vomit or the act of forcefully expelling stomach contents through the mouth.
+"Using a fan (with hand or paper) to feel warm" involves creating airflow with a handheld or paper fan for the purpose of cooling down.
+"Punching/Slapping other person" is the act of striking another person with one's fist or open hand, respectively, typically for physical harm or aggression.
+"Kicking other person" involves striking another person with one's foot, often for physical harm or aggression.
+"Pushing other person" involves applying force to another person with one's body, typically with the intent to move or manipulate them.
+"Patting on back of other person" is the act of lightly striking or tapping another person's back with one's hand.
+"Pointing finger at the other person" involves extending one's finger towards another person, typically to indicate something or express disapproval.
+"Hugging other person" involves embracing another person with one's arms, often as a gesture of affection or comfort.
+"Giving something to other person" involves transferring an object or item to another person, typically as a gift or as part of an exchange.
+"Touching other person's pocket" involves coming into contact with or manipulating the pocket of another person's clothing.
+"Handshaking" involves greeting another person by clasping and shaking their hand, typically as a gesture of respect or friendliness.
+"Walking towards each other" is the act of moving one's body towards another person while standing or walking.
+"Walking apart from each other" involves moving away from another person while standing or walking.
