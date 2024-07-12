@@ -93,6 +93,10 @@ Each training script follows these four stages, covering both Zero-Shot Learning
 
 4. Evaluate SA-DVAE under GZSL.
 
+## Acknowledgements
+
+Our codebase is mainly built upon [skelemoa/synse-zsl](https://github.com/skelemoa/synse-zsl). We thank the authors for their excellent work.
+
 ## Citation
 ```bibtex
 @inproceedings{li2024sadvae,
