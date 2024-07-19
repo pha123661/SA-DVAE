@@ -2,12 +2,9 @@
 
 ![comparison](figure/comparison.png)
 
-[Sheng-Wei Li](https://www.csie.ntu.edu.tw/~r11944004/), Zi-Xiang Wei, [Wei-Jie Chen](https://jackchen890311.github.io/), Yi-Hsin Yu, [Chih-Yuan Yang](https://yangchihyuan.github.io/people/Chih-Yuan_Yang), [Jane Yung-jen Hsu](https://iagentntu.github.io/professor/Jane)
+[Sheng-Wei Li](https://www.csie.ntu.edu.tw/~r11944004/), Zi-Xiang Wei, [Wei-Jie Chen](https://jackchen890311.github.io/), Yi-Hsin Yu, [Chih-Yuan Yang](https://yangchihyuan.github.io/people/Chih-Yuan_Yang)&#8224;, [Jane Yung-jen Hsu](https://iagentntu.github.io/professor/Jane)&#8224; (&#8224;corresponding authors)
 
-<!---
-&#8224; (&#8224;corresponding authors)
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
---->
+[![arXiv](https://img.shields.io/badge/arXiv-2407.13460-b31b1b.svg)](https://arxiv.org/abs/2407.13460)
 
 ### What does "SA-DVAE" stand for?
 
